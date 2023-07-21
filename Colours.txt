@@ -80,6 +80,12 @@
 #define smrJAgrass 8366677
 #define smrJJtaxiway 9474192
 #define smrKKBlue 16755200
+#define smrKKClosed 200
+;START of Gatwick taxiway label selection
+;First for green taxiway labels, second for invisible taxiway labels
+;#define smrKKTaxiwayLabel 6618980
+#define smrKKTaxiwayLabel 5921370
+;END of Gatwick taxiway label selection
 #define smrLLConstruction 80
 #define smrLLDarkGrey 3289650
 #define smrLLHold 9895936
