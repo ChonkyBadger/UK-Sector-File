@@ -1,4 +1,4 @@
-UK (EGTT and EGPX) {VERSION}
+UK (EGTT and EGPX) {VERSION} - Modified for Oliver's EGKK SMR
 LON_CTR
 EGLL
 N053.03.32.931
