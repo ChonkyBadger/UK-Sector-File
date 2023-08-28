@@ -1,4 +1,4 @@
-UK (EGTT and EGPX) {VERSION} - Modified for Oliver's EGKK SMR
+UK (EGTT and EGPX) {VERSION} - Modified sector file for custom EGKK SMR
 LON_CTR
 EGLL
 N053.03.32.931
