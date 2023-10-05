@@ -1,3 +1,24 @@
+# Changes from release 2023/09a to 2023/10
+1. Bug - Corrected Scottish TMA Mentor (STC_M_CTR) callsign prefix for alternative ownership functionality - thanks to @rishab-alt
+2. Enhancement - Added ground network data for Bristol (EGGD) - thanks to @MikePike-collab (Mike Pike) & @luke11brown (Luke Brown)
+3. Bug - Corrected EGAA inbounds to descend via BELZU - thanks to @ChrisXPP (Christoph Reule)
+4. Bug - Removed duplicate fix definitions - thanks to @AliceFord (Alice Ford)
+5. Enhancement - Defined Blackpool (EGNH) ATZ - thanks to @PLM1995 (Peter Mooney)
+6. AIRAC (2310) - Updated BEL, BHD, OTR, POL, SFD, STU, TLA & TRN VOR coordinates - thanks to @ChrisXPP (Christoph Reule)
+7. AIRAC (2310) - Renamed Prestwick (EGPK) VRPs - thanks to @ChrisXPP (Christoph Reule)
+8. AIRAC (2310) - Updated Oxford (EGTK) SMR hold points - thanks to @PLM1995 (Peter Mooney)
+9. Procedure Change (2310) - 8.33 kHz Trial (ENR Phase 2) - Transitioned all UK enroute non-event frequencies - thanks to @ChrisXPP (Christoph Reule)
+10. Procedure Change (2310) - 8.33 kHz Trial (AD Phase 2) - Transitioned EGKK frequencies - thanks to @ChrisXPP (Christoph Reule)
+11. Enhancement - Added Brize Norton (EGVN) Stand Numbers - thanks to @rishab-alt
+12. AIRAC (2310) - Changed "Hawarden Director" callsign to "Hawarden Radar" - thanks to @ChrisXPP (Christoph Reule)
+13. Bug - Updated Leuchars (EGQL) SMR - thanks to @PLM1995 (Peter Mooney)
+14. Enhancement - Added tickless centrelines for LTC displays - thanks to @SamLefevre (Samuel Lefevre)
+15. Procedure Change (2310) - Change to Polaris (ENSV Stavanger) sector ownership and logon callsigns - thanks to @hazzas-99
+
+# Changes from release 2023/09 to 2023/09a
+1. Enhancement - Added Middle Wallop (EGVP) FATO (runway) and helicopter SIDs - thanks to @hazzas-99
+2. Bug - Corrected 8.33kHz trial ATIS frequencies - thanks to @PLM1995 (Peter Mooney)
+
 # Changes from release 2023/08 to 2023/09
 1. Enhancement - Updated Birmingham (EGBB) SMR style- thanks to @SamLefevre (Samuel Lefevre)
 2. Enhancement - Added Derby (EGBD) SMR - thanks to @rishab-alt
@@ -26,7 +47,6 @@
 25. Enhancement - Added Haverfordwest (EGFE) SMR - thanks to @lucak1011
 26. AIRAC (2308) - Updated Belfast Aldergrove (EGAA) SMR - thanks to @DuckWhsiperer (Matt Owen)
 27. AIRAC (2309) - Added Fairoaks (EGTF) disused taxiway - thanks to @rishab-alt
-28. Enhancement - Added Middle Wallop (EGVP) FATO (runway) and helicopter SIDs - thanks to @hazzas-99
 
 # Changes from release 2023/07 to 2023/08
 1. Enhancement - Added Tug Point to Southend (EGMC) SMR - thanks to @TechieHelper (Alice Ford)
